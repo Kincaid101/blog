@@ -30,6 +30,9 @@
     display: flex;
     flex-direction: column;
 }
+#welcome {
+    margin-left: 150px;
+}
 
 
 .regBtn{
@@ -38,5 +41,8 @@
 }
 
 #btn1 {
+    display: none;
+}
+#btn2,#btn3 {
     display: none;
 }
